@@ -1,5 +1,5 @@
 <picture>
-  <img src="../../assets/images/banner_sealand.png" alt="Banner" style="width: 100%;">
+  <img src="../../../assets/images/banner_sealand.png" alt="Banner" style="width: 100%;">
 </picture>
 
 # El Principado de Sealand
