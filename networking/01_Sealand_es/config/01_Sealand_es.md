@@ -1,3 +1,7 @@
+<picture>
+  <img src="../../assets/images/banner_sealand.png" alt="Banner" style="width: 100%;">
+</picture>
+
 # El Principado de Sealand
 
 Proyecto final de asignatura de redes de módulo de grado medio I.E.S. Galileo

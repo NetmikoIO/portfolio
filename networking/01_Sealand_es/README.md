@@ -8,6 +8,11 @@
 
 This is my final networking project for the 1st SMR course, consisting of a Packet Tracer file and an explanatory PDF. The project simulates a multi-VLAN network for the Principality of Sealand, including routing, switching, DHCP, DNS, and web server configuration.
 
+### Links to project
+
+* [Packet Tracer archive](/networking/01_Sealand_es/packet_tracer/01_Sealand.pkt)
+* [Topology](/networking/01_Sealand_es/docs/01_sealand.png)
+* [Project](/networking/01_Sealand_es/config/01_Sealand_es.md)
 #### 1. Key Components:
 
 * Routers: Cisco 2911 with serial modules.
@@ -19,7 +24,7 @@ This is my final networking project for the 1st SMR course, consisting of a Pack
 
 ##### 1.1. Servers:
 
-* DNS server (172.5.4.8) with entries for www.jad.org and www.sealand.org
+* DNS server (172.5.4.8) with entries for /www.jad.org and /www.sealand.org
 
 * Two web servers (172.5.4.10 and 10.3.4.2)
 
