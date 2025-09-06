@@ -24,7 +24,7 @@ This is my final networking project for the 1st SMR course, consisting of a Pack
 
 ##### 1.1. Servers:
 
-* DNS server (172.5.4.8) with entries for /www.jad.org and /www.sealand.org
+* DNS server (172.5.4.8) with entries for 2 web pages.
 
 * Two web servers (172.5.4.10 and 10.3.4.2)
 
