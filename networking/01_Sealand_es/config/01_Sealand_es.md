@@ -1,12 +1,7 @@
 # El Principado de Sealand
 
-PROYECTO DE FINAL DE REDES DE 1ª SMR
-
-PDF EXPLICATIVO Y ARCHIVO DE PACKET TRACER
-
-
+Proyecto final de asignatura de redes de módulo de grado medio I.E.S. Galileo
 ROUTERS: 2911 CON MÓDULO DE SERIAL
-
 SWITCHES: CISCO CATALYST 2960
 
 **Clock rate:** En interfaces seriales que actúen como DCE se debe configurar `clock rate 4000000`.
@@ -258,7 +253,7 @@ Vale ahora vamos a establecer en cada Router las rutas fijas necesarias para que
 
 ## Rutas fijas `ip route`
 
-### 🧭 ZONA 1: R_SL_JAD_1
+### ZONA 1: R_SL_JAD_1
 
 🔹 Conectado a:
 
@@ -274,7 +269,7 @@ ip route 10.3.4.0 255.255.255.0 172.1.4.1
 
 ```
 
-### 🧭 ZONA 2: R_VITEL_1 DCE
+### ZONA 2: R_VITEL_1 DCE
 
 🔹 Conectado a:
 
@@ -291,7 +286,7 @@ ip route 10.3.4.0 255.255.255.0 172.2.4.1
 
 ```
 
-### 🧭 ZONA 3: R_VITEL_3
+### ZONA 3: R_VITEL_3
 
 🔹 Conectado a:
 
@@ -307,7 +302,7 @@ ip route 10.200.204.0 255.255.255.0 172.2.4.2
 ip route 10.3.4.0 255.255.255.0 172.4.4.2
 ```
 
-### 🧭 ZONA 4: R_VITEL_2 DCE
+### ZONA 4: R_VITEL_2 DCE
 
 🔹 Conectado a:
 
@@ -323,7 +318,7 @@ ip route 10.100.104.0 255.255.255.0 172.4.4.1
 ip route 10.200.204.0 255.255.255.0 172.4.4.1
 ```
 
-### 🧭 ZONA 5: Router final (R_SL_JAD_2)
+### ZONA 5: Router final (R_SL_JAD_2)
 
 🔹 Conectado a:
 
@@ -338,7 +333,7 @@ ip route 10.100.104.0 255.255.255.0 172.3.4.1
 ip route 10.200.204.0 255.255.255.0 172.3.4.1
 ```
 
-## ✅ Configuración del servidor DNS (`172.5.4.8`)
+## Configuración del servidor DNS (`172.5.4.8`)
 
 1. Abre el servidor DNS en Packet Tracer
 
@@ -359,17 +354,16 @@ Introduce estas dos entradas:
 | `www.jad.org` | `172.5.4.10` | A |
 | `www.sealand.org` | `10.3.4.2` | A |
 
-## ✅ Servidor Web 1: `www.jad.org`
+## Servidor Web 1: `www.jad.org`
 
-📍 IP: `172.5.4.10`
+* IP: `172.5.4.10`
 
-📶 Gateway: `172.5.4.1`
+* Gateway: `172.5.4.1`
 
-📡 DNS: `172.5.4.8`
+* DNS: `172.5.4.8`
 
 1. Abre el servidor en Packet Tracer
-
-Haz clic en el servidor con esa IP.
+1.2. Haz clic en el servidor con esa IP.
 
 2. Configura parámetros de red
 
@@ -386,17 +380,16 @@ Pestaña `Services` > `HTTP`:
 
 - Asegúrate de que **HTTP** esté en **ON**.
 
-## ✅ Servidor Web 2: `www.sealand.org`
+## Servidor Web 2: `www.sealand.org`
 
-📍 IP: `10.3.4.2`
+* IP: `10.3.4.2`
 
-📶 Gateway: `10.3.4.1`
+* Gateway: `10.3.4.1`
 
-📡 DNS: `172.5.4.8`
+*  DNS: `172.5.4.8`
 
 1. Abre el servidor en Packet Tracer
-
-Haz clic en el servidor con esa IP.
+1.2. Haz clic en el servidor con esa IP.
 
 2. Configura parámetros de red
 
