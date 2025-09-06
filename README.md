@@ -2,7 +2,7 @@
 ⚠️ This portfolio repository is under construction. Projects and content are being added gradually.
 
 <picture>
-  <img src="../../assets/images/banner_port.png" alt="Banner" style="width: 100%;">
+  <img src="/assets/images/banner_port.png" alt="Banner" style="width: 100%;">
 </picture>
 
 Welcome to my **portfolio repository**!  
