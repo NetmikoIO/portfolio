@@ -311,5 +311,5 @@ Este proyecto tiene fines exclusivamente **educativos**.
 No es un documento oficial de Cisco Systems.  
 Puedes reutilizar el contenido bajo la licencia [MIT](https://opensource.org/licenses/MIT).  
 
-[Volver al Índice](#introducción)
+[🔝 Volver al Índice](#índice)
 
