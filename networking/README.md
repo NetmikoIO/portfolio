@@ -5,4 +5,4 @@
 # 🌐 Networking Projects
 
 ## Project Name
-- [01.Sealand_es](./01_Sealand_es) - Sealand Principality Project – Final Project for Intermediate Vocational Training in SMR, I.E.S. Galileo (Spanish)
+- [01.Sealand_es](./01_Sealand_es) - Simulates a multi-VLAN network, including routing, switching, DHCP, DNS, and web server configuration.
