@@ -1,6 +1,8 @@
-# 🌐 Networking Projects
+<picture>
+  <img src="/assets/images/Networking.png" alt="Banner" style="width: 100%;">
+</picture>
 
-This folder contains network design and configuration projects.
+# 🌐 Networking Projects
 
 ## Project Name
 - [01.Sealand_es](./01_Sealand_es) - Sealand Principality Project – Final Project for Intermediate Vocational Training in Microcomputer Systems and Networks, I.E.S. Galileo (Spanish)
