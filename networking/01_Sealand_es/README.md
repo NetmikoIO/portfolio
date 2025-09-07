@@ -12,7 +12,7 @@ This is my final networking project for the 1st SMR course, consisting of a Pack
 
 * [Packet Tracer archive](/networking/01_Sealand_es/packet_tracer/01_Sealand.pkt)
 * [Topology](/networking/01_Sealand_es/docs/01_sealand.png)
-* [Project](/networking/01_Sealand_es/config/01_Sealand_es.md)
+* [Proyecto en idoma español](/networking/01_Sealand_es/config/01_Sealand_es.md)
 #### 1. Key Components:
 
 * Routers: Cisco 2911 with serial modules.
