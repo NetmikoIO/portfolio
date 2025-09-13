@@ -12,8 +12,8 @@
 
 ## Quick Links
 - [Python]
-- [🌐Networking](./networking)  
-- [IoT] 
+- [Networking](./networking)  
+- [IoT](./IoT)
 - [AI/ML] 
 - [Cloud]
 
